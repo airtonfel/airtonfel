@@ -1,16 +1,24 @@
-### Hi there 👋
+## Olá, mundo! 😀
 
-<!--
-**airtonfel/airtonfel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Airton Feliciano e atualmente sou estudante de tecnologia da informação, curso de Licenciatura em Computação, pelo IFTM. 👨‍🎓 
+💻 Alguns dos meus conhecimentos incluem:
 
-Here are some ideas to get you started:
+ ☑️Javascript 
+ ☑️Java
+ ☑️C
+ ☑️MySQL
+ ☑️HTML
+ ☑️CSS
+ 
+Pretendo atuar como programador/desenvolvedor inicialmente como freelancer, para isso busco oportunidades na área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💭
+
+> A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original. — Albert Einstein.
+
+
+**
+
+## ➡️ Let's Code! 
+
+** 
