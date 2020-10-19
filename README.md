@@ -10,7 +10,7 @@ Meu nome é Airton Feliciano e atualmente sou estudante de tecnologia da informa
  ☑️HTML
  ☑️CSS
  
-Pretendo atuar como programador/desenvolvedor inicialmente como freelancer, para isso busco oportunidades na área.
+Pretendo atuar como programador/desenvolvedor inicialmente como estagiário ou freelancer, para isso busco oportunidades na área.
 
  💭
 
