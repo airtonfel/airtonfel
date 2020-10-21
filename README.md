@@ -1,24 +1,28 @@
-## Olá, mundo! 😀
+<h1 align='center'>
+  Hello, World! 👋 I'm Airton Feliciano 💻
+</h1>
 
-Meu nome é Airton Feliciano e atualmente sou estudante de tecnologia da informação, curso de Licenciatura em Computação, pelo IFTM. 👨‍🎓 
-💻 Alguns dos meus conhecimentos incluem:
+<p align='center'>
+  A software development student from Uberaba, Brazil.<br>
+  I'm currently taking a computer graduation.
+</p>
 
- ☑️Javascript 
- ☑️Java
- ☑️C
- ☑️MySQL
- ☑️HTML
- ☑️CSS
- 
-Pretendo atuar como programador/desenvolvedor inicialmente como estagiário ou freelancer, para isso busco oportunidades na área.
+#### Contact
 
- 💭
+<a href='https://linkedin.com/in/airtonfel'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href='mailto:airtons.f@hotmail.com'><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge"/></a>
 
-> A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original. — Albert Einstein.
+#### Skills
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
+#### GitHub Stats
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=airtonfel&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
-**
+- 🌱 I am currently studying Java and also the Javascript + Node.JS stack
+- 💬 Ask me about IT basics and programming
+- 👯 I’m looking to collaborate on web/mobile development projects
 
-## ➡️ Let's Code! 
+Thanks for the visit. If you liked please leave a follow and a star.
 
-** 
