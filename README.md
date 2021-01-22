@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A software development student from Uberaba, Brazil.<br>
+  A FullStack Developer from Uberaba, Brazil.<br>
   I'm currently taking a computer graduation.
 </p>
 
@@ -13,7 +13,8 @@
 <a href='mailto:airtons.f@hotmail.com'><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge"/></a>
 
 #### Skills
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 
 #### GitHub Stats
 <p align='center'>
@@ -23,9 +24,9 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtonfel&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"></a>
 </p>  
 
-- 🌱 I am currently studying Java and also the Javascript + Node.JS stack
-- 💬 Ask me about IT basics and programming
-- 👯 I’m looking to collaborate on web/mobile development projects
+- 🌱 I am currently studying .NET using C#.
+- 💬 Ask me about IT Fundamentals, C#, Javascript, IoT, Electronics...
+- 👯 I’m looking to collaborate on some public projects or anything related.
 
 Thanks for the visit. If you liked please leave a follow and a star.
 
