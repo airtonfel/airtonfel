@@ -1,10 +1,10 @@
 <h1 align='center'>
-  Hello, World! 👋 I'm Airton Feliciano 💻
+  Olá! 👋 Sou o Airton. Bem-vindo(a)! 💻
 </h1>
 
 <p align='center'>
-  A FullStack Developer from Uberaba, Brazil.<br>
-  I'm currently taking a computer graduation.
+  Estudando atualmente Licenciatura em Computação - IFTM<br>
+  Sou técnico em Eletrônica e Programador de Sistemas
 </p>
 
 #### Contact
@@ -24,9 +24,9 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtonfel&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"></a>
 </p>  
 
-- 🌱 I am currently studying .NET using C#.
-- 💬 Ask me about IT Fundamentals, C#, Javascript, IoT, Electronics...
-- 👯 I’m looking to collaborate on some public projects or anything related.
+- 🌱 Atualmente estudo desenvolvimento .NET com C# e Javascript
+- 💬 Possuo conhecimentos em desenvolvimento de software, projetos eletrônicos, IoT, programação orientada a objetos, etc
+- 👯 Procuro oportunidades no mercado de trabalho para ser programador/desenvolvedor.
 
-Thanks for the visit. If you liked please leave a follow and a star.
+Muito obrigado pela visita! Se gostou de alguns dos meus projetos, me siga e deixe uma estrela! Abraços.
 
